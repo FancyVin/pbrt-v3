@@ -10,7 +10,7 @@ Film "image"
 # "integer xresolution" [1500] "integer yresolution" [1500]
 #	"float cropwindow" [ .34 .49  .67 .8 ]
 
-Sampler "halton" "integer pixelsamples" [8]
+Sampler "halton" "integer pixelsamples" [1024]
 
 Integrator "path"
 
